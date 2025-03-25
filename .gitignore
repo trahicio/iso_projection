@@ -1,0 +1,4 @@
+*.o
+*.a
+coding-style-reports.log
+my_world
